@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-#import imp
+
 from SnifferGui import *
 from SnifferController import *
 from Sniffer import *

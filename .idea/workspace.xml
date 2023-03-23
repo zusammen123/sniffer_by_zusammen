@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a923c132-cbb7-467f-b80b-3bfcad254ee3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sniffer_by_zusammen.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnifferController.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnifferGui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parsePacket.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pic/filter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pic/pause.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pic/reset.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pic/search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pic/start.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pic/trace.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
