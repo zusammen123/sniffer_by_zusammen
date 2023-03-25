@@ -10,6 +10,7 @@ import os
 from scapy.all import *
 import time
 
+
 class SnifferGui(object):
     def setupUi(self, MainWindow):
         self.MainWindow = MainWindow
