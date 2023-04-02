@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 
 
-
-
 from PyQt5.QtWidgets import *
 from Sniffer import *
 from Gui import *

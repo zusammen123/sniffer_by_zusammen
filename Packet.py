@@ -2,6 +2,7 @@ from unicodedata import name
 from scapy.all import *
 import time
 
+
 class MyPacket():
     def __init__(self) -> None:
         # ether  loopback
