@@ -5,9 +5,9 @@
 
 from PyQt5.QtWidgets import *
 from Sniffer import *
-from SnifferGui import *
+from Gui import *
 import time
-from parsePacket import *
+from Packet import *
 class SnifferController():
     def __init__(self,ui):
         self.ui = ui

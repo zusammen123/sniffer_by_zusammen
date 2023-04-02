@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
 
-from SnifferGui import *
-from SnifferController import *
+from Gui import *
+from Sniffer_ctr import *
 from Sniffer import *
 import sys
 import os
